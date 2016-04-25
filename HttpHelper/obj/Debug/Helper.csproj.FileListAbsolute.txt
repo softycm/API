@@ -1,0 +1,6 @@
+D:\Work\Test Solutions\API\HttpHelper\bin\Debug\HttpHelper.dll
+D:\Work\Test Solutions\API\HttpHelper\bin\Debug\HttpHelper.pdb
+D:\Work\Test Solutions\API\HttpHelper\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Test Solutions\API\HttpHelper\bin\Debug\Newtonsoft.Json.xml
+D:\Work\Test Solutions\API\HttpHelper\obj\Debug\HttpHelper.dll
+D:\Work\Test Solutions\API\HttpHelper\obj\Debug\HttpHelper.pdb

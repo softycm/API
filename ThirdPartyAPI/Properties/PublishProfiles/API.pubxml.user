@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Work\Publish\API</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Domain.dll">
+      <publishTime>04/22/2016 15:15:34</publishTime>
+    </File>
+    <File Include="bin/Domain.pdb">
+      <publishTime>04/22/2016 15:15:34</publishTime>
+    </File>
+    <File Include="bin/HttpHelper.dll">
+      <publishTime>04/22/2016 15:16:35</publishTime>
+    </File>
+    <File Include="bin/HttpHelper.pdb">
+      <publishTime>04/22/2016 15:16:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/21/2016 13:27:40</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/21/2016 11:18:29</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/Service.dll">
+      <publishTime>04/22/2016 15:43:44</publishTime>
+    </File>
+    <File Include="bin/Service.pdb">
+      <publishTime>04/22/2016 15:43:44</publishTime>
+    </File>
+    <File Include="bin/Swashbuckle.Core.dll">
+      <publishTime>04/21/2016 13:26:50</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>04/21/2016 11:18:31</publishTime>
+    </File>
+    <File Include="bin/ThirdPartyAPI.dll">
+      <publishTime>04/22/2016 16:56:24</publishTime>
+    </File>
+    <File Include="bin/ThirdPartyAPI.pdb">
+      <publishTime>04/22/2016 16:56:24</publishTime>
+    </File>
+    <File Include="bin/ThirdPartyAPI.XML">
+      <publishTime>04/22/2016 16:56:24</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>04/21/2016 13:27:41</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/21/2016 11:18:28</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/21/2016 13:27:45</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/22/2016 15:24:39</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
