@@ -4,6 +4,7 @@ using Swashbuckle.Swagger.Annotations;
 using System;
 using System.IO;
 using System.Net;
+using System.Text;
 using System.Threading.Tasks;
 using System.Web.Http;
 using ThirdPartyAPI.Models;
@@ -19,17 +20,17 @@ namespace ThirdPartyAPI.Controllers
         /// </summary>
         /// <param name="filePath">The file path.</param>
         /// <returns>System.String.</returns>
-        //public string GetFileDataString(string filePath)
-        //{
-        //    FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read);
+        public string GetFileDataString(string filePath)
+        {
+            FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read);
 
-        //    byte[] fileBytess = new byte[fs.Length];
-        //    fs.Read(fileBytess, 0, fileBytess.Length);
-        //    fs.Close();
-        //    fs.Dispose();
-        //    return Encoding.ASCII.GetString(fileBytess);
-        //    return Convert.ToBase64String(fileBytess);
-        //}
+            byte[] fileBytess = new byte[fs.Length];
+            fs.Read(fileBytess, 0, fileBytess.Length);
+            fs.Close();
+            fs.Dispose();
+            return Encoding.ASCII.GetString(fileBytess);
+            return Convert.ToBase64String(fileBytess);
+        }
 
         /// <summary>
         ///     银行卡识别
