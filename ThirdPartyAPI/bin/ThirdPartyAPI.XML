@@ -4,6 +4,13 @@
         <name>ThirdPartyAPI</name>
     </assembly>
     <members>
+        <member name="M:ThirdPartyAPI.Controllers.HomeController.GetFileDataString(System.String)">
+            <summary>
+                文件转换成字符串
+            </summary>
+            <param name="filePath">The file path.</param>
+            <returns>System.String.</returns>
+        </member>
         <member name="M:ThirdPartyAPI.Controllers.HomeController.IdentifyBankCard(ThirdPartyAPI.Models.Request)">
             <summary>
                 银行卡识别
