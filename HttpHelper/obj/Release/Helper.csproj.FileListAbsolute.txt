@@ -1,0 +1,6 @@
+D:\Work\MyProjectTest\Test1\anduin\HttpHelper\bin\Release\HttpHelper.dll
+D:\Work\MyProjectTest\Test1\anduin\HttpHelper\bin\Release\HttpHelper.pdb
+D:\Work\MyProjectTest\Test1\anduin\HttpHelper\bin\Release\Newtonsoft.Json.dll
+D:\Work\MyProjectTest\Test1\anduin\HttpHelper\bin\Release\Newtonsoft.Json.xml
+D:\Work\MyProjectTest\Test1\anduin\HttpHelper\obj\Release\HttpHelper.dll
+D:\Work\MyProjectTest\Test1\anduin\HttpHelper\obj\Release\HttpHelper.pdb

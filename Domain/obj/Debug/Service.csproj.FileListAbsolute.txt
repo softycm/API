@@ -10,3 +10,11 @@ D:\Work\Test Solutions\API\Domain\bin\Debug\Service.dll
 D:\Work\Test Solutions\API\Domain\bin\Debug\Service.pdb
 D:\Work\Test Solutions\API\Domain\bin\Debug\Newtonsoft.Json.dll
 D:\Work\Test Solutions\API\Domain\bin\Debug\Newtonsoft.Json.xml
+D:\Work\MyProjectTest\Test1\anduin\Domain\bin\Debug\Service.xml
+D:\Work\MyProjectTest\Test1\anduin\Domain\bin\Debug\Service.dll
+D:\Work\MyProjectTest\Test1\anduin\Domain\bin\Debug\Service.pdb
+D:\Work\MyProjectTest\Test1\anduin\Domain\bin\Debug\Newtonsoft.Json.dll
+D:\Work\MyProjectTest\Test1\anduin\Domain\bin\Debug\Newtonsoft.Json.xml
+D:\Work\MyProjectTest\Test1\anduin\Domain\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Work\MyProjectTest\Test1\anduin\Domain\obj\Debug\Service.dll
+D:\Work\MyProjectTest\Test1\anduin\Domain\obj\Debug\Service.pdb

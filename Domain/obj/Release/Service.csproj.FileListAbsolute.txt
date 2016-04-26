@@ -1,0 +1,7 @@
+D:\Work\MyProjectTest\Test1\anduin\Domain\bin\Release\Service.dll
+D:\Work\MyProjectTest\Test1\anduin\Domain\bin\Release\Service.pdb
+D:\Work\MyProjectTest\Test1\anduin\Domain\bin\Release\Newtonsoft.Json.dll
+D:\Work\MyProjectTest\Test1\anduin\Domain\bin\Release\Newtonsoft.Json.xml
+D:\Work\MyProjectTest\Test1\anduin\Domain\obj\Release\Service.csprojResolveAssemblyReference.cache
+D:\Work\MyProjectTest\Test1\anduin\Domain\obj\Release\Service.dll
+D:\Work\MyProjectTest\Test1\anduin\Domain\obj\Release\Service.pdb
