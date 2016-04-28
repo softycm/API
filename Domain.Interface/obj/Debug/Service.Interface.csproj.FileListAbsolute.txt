@@ -1,5 +1,0 @@
-D:\Work\Test Solutions\API\Domain.Interface\bin\Debug\Domain.Interface.dll
-D:\Work\Test Solutions\API\Domain.Interface\bin\Debug\Domain.Interface.pdb
-D:\Work\Test Solutions\API\Domain.Interface\obj\Debug\Service.Interface.csprojResolveAssemblyReference.cache
-D:\Work\Test Solutions\API\Domain.Interface\obj\Debug\Domain.Interface.dll
-D:\Work\Test Solutions\API\Domain.Interface\obj\Debug\Domain.Interface.pdb
